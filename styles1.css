@@ -1,0 +1,47 @@
+body{
+	font-family: Times New Roman;
+	color:#E5D81A;
+}	
+a {
+	color: #FFFFFF;
+	text-decoration:none;
+	padding: 10px;
+}
+a:hover{
+	background: Lightgray;
+}
+
+nav{
+	background: Black;
+	padding: 2%;
+}
+nav{
+	 font-size: 25px;
+}
+
+body{
+	background-image: url("Vliegtuigen.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.Vliegtuig{
+	background-color: #020202;
+    color: #E5D81A;
+    padding: 1% 1%;
+    border-radius: 10px 10px;
+    text-align: left;
+	margin-top: 50px;
+	
+}
+
+.Datum{
+	background-color: #020202;
+    color: #E5D81A;
+    padding: 1% 1%;
+    border-radius: 10px 10px;
+    text-align: left;
+	margin-top: 30px;
+	
+}
